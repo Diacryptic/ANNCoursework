@@ -1,0 +1,117 @@
+{
+    "config": [
+        5,
+        3,
+        1
+    ],
+    "adjMatrix": [
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            -0.44051472937133046,
+            -1.7828618377704315,
+            0.5731737707841407,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            -3.002543326348984,
+            -0.7069860735449726,
+            -0.20661492123808411,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            -0.40164160675950705,
+            -2.4682203334826203,
+            1.203618600829201,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            0.8653146589466297,
+            0.06303488379792918,
+            0.4160493770428123,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            -0.13622588475585037,
+            1.8350957474432665,
+            -2.59120535174673,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            0.28340035608876857,
+            null,
+            null,
+            -2.4383861160736218
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            3.344302519273381,
+            null,
+            -4.230216371423599
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1.5506883875814363,
+            3.494747714438948
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1.3865889282369217
+        ]
+    ],
+    "useLinearInOutput": false,
+    "useTanh": false,
+    "epochs": 5000,
+    "useMomentum": false,
+    "useBoldDriver": false,
+    "useWeightDecay": false,
+    "useAnnealing": false,
+    "useBatchLearning": false,
+    "RMSE": 0.02388586433622523
+}

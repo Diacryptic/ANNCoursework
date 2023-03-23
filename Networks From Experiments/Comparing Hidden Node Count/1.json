@@ -1,0 +1,81 @@
+{
+    "config": [
+        5,
+        1,
+        1
+    ],
+    "adjMatrix": [
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            1.0599522094033702,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            1.0323363420694183,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            1.7194320308033026,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            -0.10346966430734818,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            -1.741904909160504,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            -1.582826013648729,
+            6.190549730555112
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            -2.310415440376381
+        ]
+    ],
+    "useLinearInOutput": false,
+    "useTanh": false,
+    "epochs": 5000,
+    "useMomentum": false,
+    "useBoldDriver": false,
+    "useWeightDecay": false,
+    "useAnnealing": false,
+    "useBatchLearning": false,
+    "RMSE": 0.0261275807900632
+}
